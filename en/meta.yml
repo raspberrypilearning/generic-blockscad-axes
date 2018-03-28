@@ -8,7 +8,7 @@ listed: false
 ingredient: true
 copyedit: false
 last_tested: "2018-03-28"
-curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: "creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0"
 interests: ""
 technologies: "blockscad, 3D printing"
 hardware: ""
