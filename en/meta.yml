@@ -12,7 +12,7 @@ curriculum: "creator, design-1, programming-0, phys-comp-0, manufacture-0, commu
 interests: ""
 technologies: "blockscad, 3D printing"
 hardware: ""
-software: "blockscad
+software: "blockscad"
 site_areas:
 steps:
   - title: Axes in BlocksCAD
